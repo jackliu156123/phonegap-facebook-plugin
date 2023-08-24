@@ -43,7 +43,7 @@ import com.facebook.model.GraphUser;
 import com.facebook.widget.FacebookDialog;
 import com.facebook.widget.WebDialog;
 import com.facebook.widget.WebDialog.OnCompleteListener;
-
+//book
 public class ConnectPlugin extends CordovaPlugin {
 
     private static final int INVALID_ERROR_CODE = -2; //-1 is FacebookRequestError.INVALID_ERROR_CODE
